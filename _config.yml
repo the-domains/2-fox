@@ -1,0 +1,28 @@
+name: 2-FOX
+favicon: null
+layout_spectrum: 0.825096549699083
+typography_spectrum: 0.050211488269269466
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5605370718985796
+  lightness: 0.6082216564100236
+  saturation: 0.07505659502930939
+  rhythmicContrast: 0.4253004842903465
+purpose: []
